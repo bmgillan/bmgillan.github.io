@@ -169,12 +169,20 @@ a:focus {
 
 @media screen and (max-width: 1024px) {
 	
+		#svg {
+		width: 15rem;
+	}
+	
 }
 
 /* mobile styles */
 
 @media screen and (max-width: 736px) {
 	
+	
+		#svg {
+		width: 12.5rem;
+	}
 }
 
 
