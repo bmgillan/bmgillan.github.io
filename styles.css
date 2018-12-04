@@ -161,6 +161,12 @@ a:focus {
 	align-items: center;
 }
 
+#svg {
+	width: 20rem;
+	opacity: 0.7;
+	padding-bottom: 0.75rem;
+}
+
 @media screen and (max-width: 1024px) {
 	
 }
